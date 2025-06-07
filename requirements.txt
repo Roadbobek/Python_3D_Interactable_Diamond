@@ -1,0 +1,4 @@
+v1.0.0
+
+pip: pygame
+(In CMD/Terminal run 'pip install pygame'.)
