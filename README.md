@@ -1,5 +1,5 @@
-# *Python 3D Interactable Diamond*
-An interactable 3D diamond floating in space, has a file to run multiple. I am not advanced in mathematics, so I did not write most of the math.
+# *Python 3D Diamond*
+An 3D diamond floating in space, has a file to run multiple. I am not advanced in mathematics, so I did not write most of the math.
 
 
 #### Author: Roadbobek
